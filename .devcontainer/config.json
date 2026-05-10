@@ -1,12 +1,12 @@
 {
   "inbounds": [
     {
-      "port": 443,
+      "port": 8443,
       "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "id": "550e8400-e29b-41d4-a716-446655440000"
+            "id": "0ec90451-92e5-464b-b6ce-bf0ec91cd6ab"
           }
         ],
         "decryption": "none"
